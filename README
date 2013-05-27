@@ -1,7 +1,10 @@
-README
+anda
+===========
+HTML5 game : Meri bhains ko anda kyun maara (Why did you throw eggs at my buffalo?) From planning to design to execution in just 6 hours.
 
+Uses no 3rd party APIs. Written from scratch including physics, collision mechanism etc.
 
-This a HTML 5 Javascript game created by me in just 6 hours .
-PLAY IT HERE: pratikanand.com/projects/anda
-Something like a night hackathon. It doesn't use any external libraries or APIs.
-The images used in the game are from the internet.
+# Play it Here
+
+http://pratikanand.com/projects/anda/
+
